@@ -12,7 +12,7 @@ A simple lottery app built with React Native and Expo. Users can place bets on a
 
 ## Screenshots
 
-![App Screenshot Placeholder](./lottery_app/assets/screenshots.jpg)
+![App Screenshot Placeholder](./assets/screenshots.jpg)
 
 ## Installation
 
